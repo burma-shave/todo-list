@@ -5,6 +5,8 @@ import scalate.ScalateSupport
 
 import models._
 import data._
+import commands._
+
 
 class TodosController extends TodoListStack {
 
